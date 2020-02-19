@@ -1,0 +1,88 @@
+.kolom{
+    width: 200px;
+    line-height: 25px;
+
+    border: 3px solid silver;
+    border-radius: 10px;
+    transition: 500ms;
+    outline: none !important;
+}
+
+.kolom:hover{
+    background-color: steelblue;
+}
+
+.buttoncustom{
+    /* width: 200px ; */
+    line-height: 35px;
+    outline: none;
+    background-color: yellow;
+    color: black;
+    font-size: 15px;
+    border-radius: 14px;    
+    border: 2px solid red;
+    transition: 250ms;
+}
+.buttoncustom:hover{
+    width: 200px ;
+    line-height: 25px;
+    outline: none;
+    background-color: red;
+    color:yellow;
+    font-size: 20px;
+    border-radius: 24px;    
+    border: 2px solid yellow;
+}
+
+.divcolor{
+    width: 400px;
+    line-height: 75px;
+    outline: none !important;
+    background-color:rgb(115, 203, 214);
+    border:1px solid slategrey;
+    border-radius: 20px;
+}
+.divcolor2{
+    width: 400px;
+    line-height: 75px;
+    outline: none !important;
+    background-color:rgb(233, 233, 233);
+    border:1px solid slategrey;
+    border-radius: 20px;
+}
+
+.gambar{
+    outline: none;
+    position: relative;right: 150px;
+    border-radius: 50px;
+}
+
+.signin{
+    color: black;
+    outline: none;
+    font-style: italic;
+    font-size: 30px;
+}
+
+.signup{
+    line-height: 35px;
+    outline: none;
+    background-color: yellow;
+    color: black;
+    font-size: 15px;
+    border-radius: 14px;    
+    border: 2px solid red;
+    transition: 250ms;
+}
+
+.signup:hover{
+    width: 200px ;
+    line-height: 25px;
+    outline: none;
+    background-color: red;
+    color:yellow;
+    font-size: 20px;
+    border-radius: 24px;    
+    border: 2px solid yellow;
+}
+
